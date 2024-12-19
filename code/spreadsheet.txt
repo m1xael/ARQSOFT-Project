@@ -1,0 +1,6 @@
+A1;number;10
+B2;formula;=10 * 2
+A2;number;5
+B3;formula;=(10 - 5) / 3
+A3;text;Test
+B1;formula;=10 + 5
